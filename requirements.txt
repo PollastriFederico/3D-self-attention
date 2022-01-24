@@ -1,0 +1,17 @@
+imgaug==0.4.0
+matplotlib
+numpy
+opencv-python==4.4.0.46
+path
+pathlib2==2.3.5
+Pillow
+pydicom==2.1.2
+PyYAML==5.3.1
+scikit-image==0.17.2
+scikit-learn
+scipy
+tensorboard
+torch==1.7.0
+torchvision==0.8.1
+tqdm
+vit-pytorch==0.7.3
